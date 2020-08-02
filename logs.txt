@@ -1,0 +1,8 @@
+SRC: D:\My Folder
+SRC: D:\Мои приложения
+DEST: C:\Users\Family\Desktop
+[10:25:36 / 22.07.2020] Backup started with a period of 10 Minutes. Processing...
+[10:25:46 / 22.07.2020] Backup is stopped
+DEST: C:\Users\Family\Desktop
+[10:26:00 / 22.07.2020] Backup started with a period of 10 Minutes. Processing...
+[10:26:02 / 22.07.2020] Backup is stopped
